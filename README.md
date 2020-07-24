@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. candidate at the Arizona State University. I have worked as a Software Developer at Amazon before joing my PhD and as a Research Intern (also) at Amazon after joining graduate studies. Over the last few years, I have been busy committing code for supporting reproducable research results.
+I am a Ph.D. candidate at the Arizona State University. I have worked as a Software Developer at Amazon before joing my PhD and as a Research Intern (also) at Amazon after joining graduate studies. I have been also been fortunate to be awarded the IBM PhD Fellowship. Over the last few years, I have been busy committing code for supporting reproducable research results.
 
 I am a disciple of the [Tao of Programming](http://www.mit.edu/~xela/tao.html) and a follower of [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)ing practices. During old-times, I was a software engineer by day and a security certifier by night. Currently, I am interested in game-theory, AI planning, security and robustness of cyber and machine learning systems.
 
