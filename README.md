@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently working in Natural Language Understanding as an Applied Scientist at Amazon after completing my Ph.D. at Arizona State University in 2020. I have been fortunate to be awarded the IBM PhD Fellowship.
+I am currently working in Natural Language Understanding as an Applied Scientist at Amazon after completing my Ph.D. at Arizona State University in 2020. I have been fortunate to be awarded the IBM PhD Fellowship.
 
 I am a disciple of the [Tao of Programming](http://www.mit.edu/~xela/tao.html) and a follower of [Clean Cod(e)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)ing practices. In my past life (before joining PhD), I was a software engineer by day and a security certifier by night. Gradually, my interest has shifted to making AI systems, using the tools of game-theory, planning, machine learning and security, safe and human-aware.
 
