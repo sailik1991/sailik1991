@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Ph.D. candidate at the Arizona State University. I have worked as a Software Developer at Amazon before joing my PhD and as a Research Intern (also) at Amazon after joining graduate studies. I have been also been fortunate to be awarded the IBM PhD Fellowship. Over the last few years, I have been busy committing code for supporting reproducable research results.
+I currently working in Natural Language Understanding as an Applied Scientist at Amazon after completing my Ph.D. at Arizona State University in 2020. I have been fortunate to be awarded the IBM PhD Fellowship.
 
-I am a disciple of the [Tao of Programming](http://www.mit.edu/~xela/tao.html) and a follower of [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)ing practices. During old-times, I was a software engineer by day and a security certifier by night. Currently, I am interested in game-theory, AI planning, security and robustness of cyber and machine learning systems.
+I am a disciple of the [Tao of Programming](http://www.mit.edu/~xela/tao.html) and a follower of [Clean Cod(e)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)ing practices. In my past life (before joining PhD), I was a software engineer by day and a security certifier by night. Gradually, my interest has shifted to making AI systems, using the tools of game-theory, planning, machine learning and security, safe and human-aware.
 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love to eat lots of food, enjoy photography and listen to a wide variety of music.
