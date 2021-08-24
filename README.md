@@ -4,8 +4,8 @@ I currently work in Natural Language Understanding as an Applied Scientist at Am
 
 I am a disciple of the [Tao of Programming](http://www.mit.edu/~xela/tao.html) and a follower of [Clean Cod(e)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)ing practices. In my past life (before joining PhD), I was a software engineer by day and a security certifier by night. Gradually, my interest has shifted to making AI systems, using the tools of game-theory, planning, machine learning and security, safe and human-aware.
 
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I love to eat lots of food, enjoy photography and listen to a wide variety of music.
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I love to eat lots of food, enjoy photography (+ travel) and listen to a wide variety of music.
 - 📫 Website: https://sailik1991.github.io/
 
 <!--
