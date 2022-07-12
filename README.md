@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sailik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailik1991&show_icons=true&theme=dracula)
+![Sailik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailik1991&hide=prs,issues&show_icons=true&include_all_commits=true&theme=dracula)
