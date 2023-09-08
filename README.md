@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.sailik1991.vercel.app/api/top-langs/?username=sailik1991&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=sailik1991&hide=HTML" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sailik1991" alt="sailik1991" />
+
 ### Hi there 👋
 
 I currently work in Natural Language Understanding as an Applied Scientist at Amazon. I am an alumnus of Arizona State University (PhD), Jadavpur Univeristy (B.E), and St. Xavier's Collegiate School. My code contributions does not necessarily represent the identity I work for/with.
